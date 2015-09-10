@@ -92,5 +92,16 @@ VALUES ( 1 , 1 , 2),
 	   ( 20, 3 , 2),
 	   ( 20, 4 , 5)
 
+INSERT INTO dbo.borrower
+VALUES (100, 'DAVID', 'ATLANTA','1089875436'),
+       (101, 'ERIC', 'ATLANTA','1069865436'),
+	   (102, 'JOHN', 'ATLANTA','1079877476'),
+	   (103, 'SARA', 'CODY','1089875436'),
+	   (104, 'MANDY', 'MTA','1089875436'),
+	   (105, 'DAVID', 'ATLANTA','1089875436'),
+	   (106, 'SONY', 'CODY','1049874436'), 
+	   (107, 'GALE', 'ATLANTA','1039475636')
+GO
+
 
 
